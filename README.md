@@ -12,6 +12,7 @@ Wenn ihr auch "schon immer" von Amazon weg oder zumidnest den Konsum auf dieser 
 * [booklooker](https://www.booklooker.de)
 * Thalia: [🇩🇪](https://www.thalia.de) / [🇦🇹](https://www.thalia.at)
 * [Lehmanns](https://www.lehmanns.de) (der Klassiker)
+* [genialokal](https://www.genialokal.de/) (Unterstützung lokaler Buchhandlungen)
 
 ### 🥘 Ernährung
 * [MOTATOS](https://www.motatos.de) (retten Lebensmittel, die es nicht vom Groß- zum Einzelhandel schaffen)
