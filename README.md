@@ -42,6 +42,8 @@ Das ist eine kuratierte Liste. Heisst, ich schaue mir wirklich all eure Empfehlu
 * [Teekampagne](https://www.teekampagne.de) (nun ja, Tee eben)
 * [Berief Food](https://www.berief-food.de) (verschickt leckere, lokal produzierte Bio- Pflanzenmilch)
 * [Soja-Farm](https://www.soja-farm.de) (deutscher Familienbetrieb, welcher bereits seit 30 Jahren Soja-Produkte herstellt)
+* [fairafric](https://fairafric.com/collections/produkte) (Schokolade, produziert in Ghana)
+* [tarabao](https://tarabao.bio/) (Großpackungen Nüsse, Trockenfrüchte, fairafric-Schokolade, etc.)
 
 ### 🚲 Fahrräder und Zubehör
 * [Bike Components](https://bike-components.de)
