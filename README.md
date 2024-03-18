@@ -7,10 +7,8 @@ Das ist eine kuratierte Liste. Heißt, ich schaue mir wirklich all eure Empfehlu
 ---
 
 ### 🏪 Allgemein (gemischte Produktauswahl)
-* Akkurat: [Akkurat](https://akkurat-gsv.de/shop) (Shop für erneuerbare Energien)
 * AvocadoStore: [🇩🇪](https://www.avocadostore.de) / [🇦🇹](https://www.avocadostore.at) (Marketplace für faire, nachhaltige oder vegane Produkte, vor allem Textilien und Haushaltsgegenstände)
 * [Galaxus](https://www.galaxus.de)
-* Gartenkraftwerke: [Gartenkraftwerke](https://gartenkraftwerke.de) (Shop für erneuerbare Energien)
 * Memo AG: [Privatkunden](https://www.memolife.de/) / [Geschäftskunden](https://www.memo.de/) (Nachhaltig & fair - u.a. mit der [MemoBox](https://nachhaltigkeit.memo.de/umwelt-klima/logistik/memo-box/) und [Radlogistik](https://www.memoworld.de/radlogistik/))
 * Otto Versand: [🇩🇪](https://otto.de) / [🇦🇹](https://otto.at) (ja, die gibt es noch immer)
 * Pearl: [🇩🇪](https://www.pearl.de) / [🇦🇹](https://www.pearl.at) (Wer kennt ihn nicht, diesen Ramschladen! 😂)
@@ -75,6 +73,11 @@ Das ist eine kuratierte Liste. Heißt, ich schaue mir wirklich all eure Empfehlu
 * [Überlegen](https://www.ueberlegen.online/) (Ein Online-Marktplatz für hochwertige und authentische Kaffees von Röstereien, die außergewöhnliches Engagement im Kaffeehandel zeigen)
 * [Urkornpuristen](https://urkornpuristen.de) (Urkorngetreide aus eigenem Anbau, ganzes Korn oder Mehl)
 * [Waldis Pizza](https://www.waldispizza.de) (Alles rund um Pizza: Mehl, Werkzeuge, Pizzaöfen, Zubehör etc.)
+
+### Erneuerbare Energien
+* [Akkurat](https://akkurat-gsv.de/shop)
+* [Gartenkraftwerke](https://gartenkraftwerke.de)
+* [Tepto](https://www.tepto.de) (viele verschiedene Angebote für Balkonkraftwerke) 
 
 ### 🚲 Fahrräder und Zubehör
 * [Bike Components](https://bike-components.de)
@@ -181,6 +184,7 @@ Das ist eine kuratierte Liste. Heißt, ich schaue mir wirklich all eure Empfehlu
 * [Grey Element](https://grey-element.shop)
 * [Kabelscheune](https://www.kabelscheune.de) (große Auswahl an Kabeln für den Heimwerkerbedarf)
 * [Kunstpark](Kunstpark-Shop.de) (Künstlerbedarf, Bastelbedarf, Zeichenbedarf)
+* [Lets Bastel](https://shop.lets-bastel.de)
 * [ManoMano](https://www.manomano.de)
 * [modulor](https://modulor.de) (Künstler- und DIY-Bedarf, haben auch ein Ladengeschäft in Berlin)
 * [Online-Schrauben](https://online-schrauben.de)
@@ -213,7 +217,7 @@ Das ist eine kuratierte Liste. Heißt, ich schaue mir wirklich all eure Empfehlu
   
 
 ## Mitmachen
-Alle die, die mit GitHub vertraut sind, schicken mir einfach einen Pull-Request. Alle anderen nutzen bitte die [Issue-Funktion](https://github.com/phranck/Amazon-Alternativen/issues), und tragen dort ihre Ergänzungsvorschläge ein. Es muss nicht jede Ergänzung ein eigenes Issue sein. Gerne auch mehrere als ein Issue verpacken.
+Alle die, die mit GitHub vertraut sind, schicken mir einfach einen Pull-Request. Alle anderen nutzen bitte die [Issue-Funktion](https://github.com/phranck/Amazon-Alternativen/issues), und tragen dort ihre Ergänzungsvorschläge ein.
 
 Bitte die Einträge entsprechend ihrer Kategorie alphabetisch sortiert eintragen (als wäre alles klein geschrieben). Danke. 🙏
 
